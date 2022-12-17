@@ -1,0 +1,14 @@
+{
+    "discord-bot": {
+        "token": ""
+    },
+    "mysql": {
+        "host": "",
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "networth": {
+        "apiKey": ""
+    }
+}

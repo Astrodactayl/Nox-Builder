@@ -1,0 +1,16 @@
+[
+{
+  "modid": "loader",
+  "name": "Loader",
+  "description": "Gute Nacht's Loader",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude", "dxxxxy", "Gute Nacht"],
+  "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
