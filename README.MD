@@ -2,8 +2,6 @@
 
 *Like VirtueRAT, just shittier and open source.*
 
-
-
 ## Nox Logger Features 🐀
 - Grabs **Username, UUID, SSID, IP**
 - Entirely **Un-Nukable**
